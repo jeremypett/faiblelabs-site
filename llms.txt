@@ -1,0 +1,16 @@
+# fAIble Labs
+
+> fAIble Labs Inc. (Leesburg, Virginia, USA) builds AI-assisted RF signal-analysis software that runs entirely on the customer's own hardware, for defense, test-range, satellite and security environments where recordings cannot leave. Nothing leaves the customer's environment; every check has three answers (yes / no / could not look); AI flags and people decide; content is never decoded.
+
+## What the product does
+A recording is placed on an analysis box and moves through five steps: intake, triage, characterize, attribute (link pulses, hops and carriers to the radio that sent them), adjudicate (an engineer accepts, corrects or marks each result unsure).
+
+## What is sold
+A base workbench plus licensed modules: RF Analysis; RF Baseline and Change; Satellite Transponder Survey; Drone-Link Class. Delivered on an analysis box supplied at cost, to a published specification, or on the customer's hardware. Yearly licence per box (keeps working if it lapses) or perpetual; security fixes free; no phone-home. Prices on request.
+
+## Pages
+- [Home](https://faiblelabs.org/)
+- [Product](https://faiblelabs.org/product/)
+- [How it works](https://faiblelabs.org/how-it-works/)
+- [Company](https://faiblelabs.org/company/)
+- [Contact](https://faiblelabs.org/contact/) — contact@faiblelabs.org
